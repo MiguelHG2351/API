@@ -1,0 +1,4 @@
+verde las bisectriz
+rojo las mediatrices
+azul medianas
+Alturas amarillo
